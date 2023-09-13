@@ -1,4 +1,5 @@
 ### Hi there 👋
+ I’m a Data analytics enthusiast. 
 
 <!--
 **Data-Tijani/Data-Tijani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
