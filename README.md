@@ -1,5 +1,5 @@
 ### Hi there 👋
- Good to see you here. I'm a Data analytics enthusiast. 
+ Good to see you here. I'm a Junior Data analyst. 
 
 <!--
 **Data-Tijani/Data-Tijani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
